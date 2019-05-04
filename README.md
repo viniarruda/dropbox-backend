@@ -13,3 +13,5 @@ Socket.io
 
 
 ```yarn install```
+
+```yarn dev```
