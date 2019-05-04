@@ -4,13 +4,12 @@ Dropbox clone
 
 - Front : React
 - Back: Nodejs
+ - Mongodb - noSql
+ - Mongodb Atlas
+ - Socket.io
 - App: React-native
 
-
-Mongodb - noSql
-Mongodb Atlas
-Socket.io
-
+## Run 
 
 ```yarn install```
 
