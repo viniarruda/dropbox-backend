@@ -2,12 +2,14 @@
 
 Dropbox clone
 
-- Front : React
-- Back: Nodejs
- - Mongodb - noSql
- - Mongodb Atlas
- - Socket.io
-- App: React-native
+
+### This project use
+
+  - Nodejs
+  - Express
+  - Mongodb - noSql
+  - Mongodb Atlas
+  - Socket.io
 
 ## Run 
 
